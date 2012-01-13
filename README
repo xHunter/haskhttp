@@ -1,0 +1,11 @@
+Simple implementation of web server in haskell
+It is just for learning.
+
+
+To Do:
+- Listen sockets in port 80*
+- Manage http request
+- Response http request
+- Retrive files
+
+* Current Task
